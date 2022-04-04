@@ -1,16 +1,7 @@
-# onboarding
+# Onboarding Pages
 
-A new Flutter project.
+3 onboarding pages for a productivity app
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![page1](https://user-images.githubusercontent.com/48943323/161574766-2e6ea598-bbae-44c2-9ef6-68c2098fc2fd.png)
+![page2](https://user-images.githubusercontent.com/48943323/161574781-b722193d-eea8-4c73-b0af-2114fb645fde.png)
+![page3](https://user-images.githubusercontent.com/48943323/161574786-5e0207e5-edee-4f31-8185-8079fa1758d9.png)
