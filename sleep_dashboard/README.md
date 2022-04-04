@@ -1,16 +1,8 @@
-# sleep_dashboard
+# Sleep Dashboard
 
-A new Flutter project.
+A proposal dashboard for a health application that helps user to improve the quality of their sleep :iphone: :sleeping:
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+**Output App**
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![dashboard](https://user-images.githubusercontent.com/48943323/161517485-660db878-5b00-4b67-8c65-73a709271986.png)
